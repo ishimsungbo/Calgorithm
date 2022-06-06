@@ -11,6 +11,7 @@ int main1() {
 
 //printArray(arr, sizeof(arr) / sizeof(int));  sizeof(arr) 은 40이 나오고 자료형sizeof(int) 공강 4를 나누면 배열의 size()를 구함
 //printf("값 %d", sizeof(int)); 4가 나온다? int의 공간이 4인가?
+// github test
 
 int main() {
 
